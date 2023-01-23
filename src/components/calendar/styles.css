@@ -1,0 +1,15 @@
+.nice-dates-navigation_current , .nice-dates-navigation_next
+, .nice-dates-navigation_previous {
+    font-weight: 500;
+}
+
+.nice-dates-navigation, .nice-dates-day {
+    color: #111;
+  }
+  .nice-dates-popover {
+    box-shadow: none;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    max-width: 480px;
+    transition: none;
+  }
